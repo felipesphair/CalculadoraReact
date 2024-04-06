@@ -17,4 +17,5 @@ Este projeto em React é uma calculadora que oferece funcionalidades básicas de
 
 # Tela:
 
-![image](https://github.com/felipesphair/CalculadoraReact/assets/107360437/a5488abc-5bde-4212-b71d-728ed8d6353c)
+![image](https://github.com/felipesphair/CalculadoraReact/assets/107360437/23d7fa1f-0708-4dde-af13-e1241c32983d)
+
